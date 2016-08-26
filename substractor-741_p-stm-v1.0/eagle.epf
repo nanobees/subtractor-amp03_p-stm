@@ -1,0 +1,44 @@
+[Eagle]
+Version="06 05 00"
+Platform="Linux"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/home/seldon/.eagle/external_lbrs/LilyPad-Wearables.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-Aesthetics.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-AnalogIC.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-Boards.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-Capacitors.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-Connectors.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-DigitalIC.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-Displays.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-Electromechanical.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-FreqCtrl.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-LED.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-Passives.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-PowerIC.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-RF.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-Resistors.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-Retired.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/SparkFun-Sensors.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/adafruit.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/linear.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/rectifier_nanobees.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/transistor-fet_nanobees.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/transistor-fet_nanobees_1.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/transistor-pnp_nanobees.lbr"
+UsedLibrary="/home/seldon/.eagle/external_lbrs/transistor_nanobees.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="0 27 599 426"
+State=2
+Number=0
+
+[Desktop]
+Screen="1280 800"
+Window="Win_1"
